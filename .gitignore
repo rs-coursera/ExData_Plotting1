@@ -1,0 +1,20 @@
+# History files
+.Rhistory
+
+# Example code in package build process
+*-Ex.R
+
+# R data files from past sessions
+.Rdata
+
+# Zip file for the excercise
+*.zip
+
+# Data samples for the excercize
+*.txt
+
+# Test data folder
+"UCI HAR Dataset"
+
+# Any MD file rendition from R Studio
+*.html
